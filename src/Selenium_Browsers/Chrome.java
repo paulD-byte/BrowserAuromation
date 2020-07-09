@@ -9,6 +9,8 @@ public class Chrome {
 
 	public static void main(String[] args) throws InterruptedException {
 
+		// Browser Automation using chrome
+
 		// System.setProperty("webdriver.chrome.driver","D:\\Selenium_Practice\\Selenium
 		// Dependancy\\Drivers\\chromedriver.exe");
 
